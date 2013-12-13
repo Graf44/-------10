@@ -1,7 +1,7 @@
 #include"Dictionary.h"
 #include <iostream>
 #include<string>
-
+//Komment ot Maksimki
 using namespace std;
 
 BinaryTree::BinaryTree()
